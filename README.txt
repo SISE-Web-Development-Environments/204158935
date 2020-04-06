@@ -1,4 +1,4 @@
 חי מתתיהו	
 204158935
-http://127.0.0.1:5500/index.html
-haymatit
+https://sise-web-development-environments.github.io/assignment1-haymatit/
+
