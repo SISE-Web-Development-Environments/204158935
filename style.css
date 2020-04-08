@@ -28,7 +28,6 @@ header {
   
   header nav {
     float: none;
-  
     margin-bottom: 15px;
   }
   
@@ -41,3 +40,7 @@ header {
     outline-style: solid;
     outline-width: thick;
   }
+  
+div{
+  background-color:lightskyblue;
+}
